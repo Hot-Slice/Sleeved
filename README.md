@@ -2,7 +2,7 @@
 
 
 
-A random sleeve selector tool — no repeats until all are used.
+A random sleeve selector tool - no repeats until all are used.
 
 
 
@@ -110,6 +110,7 @@ No data is collected or transmitted — it runs entirely offline.
 
 
 Enjoy using \*\*Sleeved\*\*!
+
 
 
 
