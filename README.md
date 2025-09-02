@@ -1,4 +1,4 @@
-🎲 Sleeved — Sleeve Picker App
+🎲 Sleeved - Sleeve Picker App
 
 
 
@@ -110,6 +110,7 @@ No data is collected or transmitted — it runs entirely offline.
 
 
 Enjoy using \*\*Sleeved\*\*!
+
 
 
 
