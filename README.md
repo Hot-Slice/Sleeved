@@ -33,7 +33,7 @@ I don’t know anything about coding - I actually used ChatGPT to help build it!
 
 \- It also tracks which sleeves have already been picked using `used_sleeves.json`.
 
-\- No internet or online storage is used — everything stays on your own device.
+\- No internet or online storage is used - everything stays on your own device.
 
 
 
@@ -110,6 +110,7 @@ No data is collected or transmitted — it runs entirely offline.
 
 
 Enjoy using \*\*Sleeved\*\*!
+
 
 
 
